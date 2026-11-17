@@ -2399,7 +2399,7 @@
     { text: '     •     ', color: '#90e0ef', glow: '#48cae4' },
     { text: '❄  メ リ ー ク リ ス マ ス  ・  穏 や か な ク リ ス マ ス を  ❄', color: '#90e0ef', glow: '#48cae4' },
     { text: '     •     ', color: '#90e0ef', glow: '#48cae4' },
-    { text: '♫  Merry Christmas, Mr. Lawrence  ♫', color: '#ffd166', glow: '#ffb703' },
+    { text: '♫  Merry Christmas, Mr. Ryuichi Sakamoto  ♫', color: '#ffd166', glow: '#ffb703' },
     { text: '     •     ', color: '#90e0ef', glow: '#48cae4' },
   ];
 
