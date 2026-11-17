@@ -2705,7 +2705,7 @@
     const maxTextWidthPx = Math.min((maxC - minC - 1) * cellW, cols * cellW * 0.84);
     let mainText = '✦   C L I C K   H E R E   ✦';
     let mainSize = clamp(Math.round(cellH * 1.25), 13, 22);
-    const subText = '♪  Merry Christmas, Mr. Lawrence  ♪';
+    const subText = '♪  Merry Christmas, Mr. Ryuichi Sakamoto  ♪';
     let subSize = clamp(Math.round(cellH * 0.78), 10, 15);
 
     const mainColor = rgbFloatToHex(
